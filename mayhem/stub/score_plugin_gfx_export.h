@@ -1,0 +1,3 @@
+#pragma once
+#define SCORE_PLUGIN_GFX_EXPORT
+#define SCORE_PLUGIN_GFX_TEST_EXPORT
